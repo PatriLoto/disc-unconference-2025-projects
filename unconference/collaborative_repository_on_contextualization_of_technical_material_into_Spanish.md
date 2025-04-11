@@ -1,4 +1,9 @@
-
+```{article-info}
+:avatar: images/disc-icon.jpg
+:avatar-outline: muted
+:author: "[Patricia A. Loto](https://github.com/PatriLoto, [I](https://github.com/)"
+:class-container: sd-p-2 sd-outline-muted sd-rounded-1
+```
 
 ## **Project.**
 Collaborative repository on contextualization of technical material into Spanish for Latin America as support for reducing language barriers in Open Source projects
