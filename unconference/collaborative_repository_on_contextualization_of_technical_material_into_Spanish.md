@@ -1,9 +1,6 @@
----
-title: collaborative_repository_on_contextualization_of_technical_material_into_Spanish
 
----
 
-## **Project's Name:**
+## **Project:**
 Collaborative repository on contextualization of technical material into Spanish for Latin America as support for reducing language barriers in Open Source projects
 
 ## **Issue:**
@@ -35,7 +32,7 @@ Given the cultural and social background of the intended Spanish-speaking audien
 * **Translation** is fundamentally the process of interpreting the meaning of words or texts in one language and obtaining an equivalent meaning in another. While this may appear to be a simple linguistic conversion process, it involves finding equivalence in meaning between languages while carefully retaining the original style and context. 
  
  
-## **Guides on translation, contextualization, and localization processes into Spanish language.
+## **Guides on translation, contextualization, and localization processes into Spanish language.**
 
 The following list was developed focusing on resources that discuss workflows, good practices, and particular considerations for contextualizing and localizing content into Spanish.
 
