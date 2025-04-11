@@ -55,7 +55,10 @@ The following list was developed focusing on resources that discuss workflows, g
 | The Carpentries   | Community-driven, translated lessons hosted on GitHub (carpentries-es), translation conventions document, collaborative translation events ("hackathons," "do-a-thons"), instructor training in Spanish.   | [Carpentries for Latin America](https://carpentries.org/blog/2018/03/forlatinamerica/)    |Post  |
 |The Carpentries   |A multilingual glossary for computing and data science terms.|[Glosario](https://glosario.carpentries.org/es/)|Glosary|
 
-## Next Steps.
+
+## **Next steps.**
+- [ ] Define the final outcome.
+- [ ] Look for contributors to the project: Riva Quiroga and Oriol Abril Pla were interested in the project.
 
 
 ### **References.**
