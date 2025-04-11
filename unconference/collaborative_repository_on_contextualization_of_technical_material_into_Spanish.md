@@ -23,6 +23,7 @@ Users that were kept in mind when thinking about the solution: any community of 
 * Patricia A. Loto.
 * If you are interested in the project, please don't hesitate to [contact](https://github.com/PatriLoto) me.
 
+## Introduction. 
 
 ### **Definitions of Key Terms.**
 
@@ -54,6 +55,7 @@ The following list was developed focusing on resources that discuss workflows, g
 | The Carpentries   | Community-driven, translated lessons hosted on GitHub (carpentries-es), translation conventions document, collaborative translation events ("hackathons," "do-a-thons"), instructor training in Spanish.   | [Carpentries for Latin America](https://carpentries.org/blog/2018/03/forlatinamerica/)    |Post  |
 |The Carpentries   |A multilingual glossary for computing and data science terms.|[Glosario](https://glosario.carpentries.org/es/)|Glosary|
 
+## Next Steps.
 
 
 ### **References.**
