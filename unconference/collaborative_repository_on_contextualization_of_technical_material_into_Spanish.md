@@ -1,5 +1,5 @@
 
-## **Project: Collaborative repository on contextualization of technical material into Spanish for Latin America as support for reducing language barriers in Open Source projects**
+## **Collaborative repository on contextualization of technical material into Spanish for Latin America as support for reducing language barriers in Open Source projects**
 
 ```{article-info}
 :avatar: images/disc-icon.jpg
@@ -8,7 +8,7 @@
 :class-container: sd-p-2 sd-outline-muted sd-rounded-1
 ```
 
-## **Issue.**
+## **Why.**
 
 Nowadays, contextualization efforts are made by different communities, but the material generated is dispersed. There is no unified space or repository that centralizes all the knowledge generated around this topic and allows it to be carried out in a reproducible way. For this reason, many projects have to start from scratch, wasting time and resources and duplicating efforts.
 
