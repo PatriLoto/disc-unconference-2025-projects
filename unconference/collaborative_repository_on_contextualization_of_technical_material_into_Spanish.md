@@ -7,7 +7,7 @@ Collaborative repository on contextualization of technical material into Spanish
 
 Nowadays, contextualization efforts are made by different communities, but the material generated is dispersed. There is no unified space or repository that centralizes all the knowledge generated around this topic and allows it to be carried out in a reproducible way. For this reason, many projects have to start from scratch, wasting time and resources and duplicating efforts.
 
-## **Solution:**
+## **Solution.**
 Create a collaborative guide and/or repository with the aim of centralising and organising existing knowledge on the contextualization of technical material into Spanish, providing an accessible, inclusive, and easy-to-use knowledge base so that any individual or community can adapt content to the cultural, linguistic, and social needs of the region. The primary goal is to expedite and facilitate the contextualisation of technical materials for Spanish speakers in Latin America, using the knowledge and experiences gained from earlier projects. The resources of the repository could be classified in such categories as best practices, glossary of terms, support tools, methods or procedures, and success stories, among others.
 
 ## **Users.**
@@ -15,10 +15,9 @@ Create a collaborative guide and/or repository with the aim of centralising and 
 Users that were kept in mind when thinking about the solution: any community of practice or individual with the need to translate material into Spanish using best practices.
 
 ## **Authors/Participants.**
-* Patricia A. Loto
-If you are interested in the project, please don't hesitate to [contact](https://github.com/PatriLoto) me.
+* Patricia A. Loto.
+* If you are interested in the project, please don't hesitate to [contact](https://github.com/PatriLoto) me.
 
-### **Definitions of Key Terms:**
 
 ### **Definitions of Key Terms.**
 
