@@ -1,5 +1,5 @@
 
-# **Project: Collaborative repository on contextualization of technical material into Spanish for Latin America as support for reducing language barriers in Open Source projects
+## **Project: Collaborative repository on contextualization of technical material into Spanish for Latin America as support for reducing language barriers in Open Source projects**
 
 ```{article-info}
 :avatar: images/disc-icon.jpg
