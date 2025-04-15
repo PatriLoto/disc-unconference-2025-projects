@@ -60,8 +60,9 @@ The following list was developed focusing on resources that discuss workflows, g
 
 
 ## **Next steps.**
+- [ ] Elaborate a contributing guide.
 - [ ] Define the final outcome.
-- [ ] Look for contributors to the project: Riva Quiroga and Oriol Abril Pla were interested in the project.
+- [ ] Look for contributors to the project (Riva Quiroga and Oriol Abril Pla were interested in the project).
 
 
 ### **References.**
