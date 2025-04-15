@@ -53,7 +53,10 @@ The following list was developed focusing on resources that discuss workflows, g
 | ROpenSci   | The {babelquarto} package allows you to create and render a multilingual Quarto project, book or website.  | [ {babelquarto} package ](https://docs.ropensci.org/babelquarto/)  |Tool|Tool|
 | The Carpentries   | Community-driven, translated lessons hosted on GitHub (carpentries-es), translation conventions document, collaborative translation events ("hackathons," "do-a-thons"), instructor training in Spanish.   | [The Carpentries Website](https://carpentries.org/about-us/)    |Community  | 
 | The Carpentries   | Community-driven, translated lessons hosted on GitHub (carpentries-es), translation conventions document, collaborative translation events ("hackathons," "do-a-thons"), instructor training in Spanish.   | [Carpentries for Latin America](https://carpentries.org/blog/2018/03/forlatinamerica/)    |Post  |
-|The Carpentries   |A multilingual glossary for computing and data science terms.|[Glosario](https://glosario.carpentries.org/es/)|Glosary|
+|The Carpentries   |A multilingual glossary for computing and data science terms.|[Glosario](https://glosario.carpentries.org/es/)|Glossary|
+|KDE   |KDE is an international team that cooperates in the development and distribution of Free and Open Source Software for desktops and laptops. It has a volunteer team translating KDE into Spanish.|[Equipo de traducción de KDE al español](https://es.l10n.kde.org/)|Community|
+|KDE   |An English-Spanish glossary of computer terms.|[Glosario de KDE](https://es.l10n.kde.org/glosario.php)|Glossary|
+|Pology   |Pology is a collection of command-line tools and a Python library for in-depth processing of PO files, which are the predominant medium for translation of free software and associated documents.|[Python library](https://invent.kde.org/sdk/pology)|Tool|
 
 
 ## **Next steps.**
