@@ -39,7 +39,7 @@ Given the cultural and social background of the intended Spanish-speaking audien
 * **Translation** is fundamentally the process of interpreting the meaning of words or texts in one language and obtaining an equivalent meaning in another. While this may appear to be a simple linguistic conversion process, it involves finding equivalence in meaning between languages while carefully retaining the original style and context. 
  
  
-## **Guides on translation, contextualization, and localization processes into Spanish language.**
+## Guides on translation, contextualization, and localization processes into Spanish language.
 
 The following list was developed focusing on resources that discuss workflows, good practices, and particular considerations for contextualizing and localizing content into Spanish.
 
@@ -59,13 +59,13 @@ The following list was developed focusing on resources that discuss workflows, g
 |Pology   |Pology is a collection of command-line tools and a Python library for in-depth processing of PO files, which are the predominant medium for translation of free software and associated documents.|[Python library](https://invent.kde.org/sdk/pology)|Tool|
 
 
-## **Next steps.**
+## Next steps.
 - [ ] Elaborate a contributing guide.
 - [ ] Define the final outcome.
 - [ ] Look for contributors to the project (Riva Quiroga and Oriol Abril Pla were interested in the project).
 
 
-### **References.**
+### References.
 * Yanina Bellini Saibene and Natalia Soledad Morandeira. Multilingual Data Science: Ten Tips to Translate Science and Tech Content. Chapter at Our Environment. A collection of work by data designers, artists, and scientists. ISBN:979-8-218-20191-3.
 
 * Edinburgh Research Explorer - What is 'Translation'? - Account, fecha de acceso: abril 11, 2025, https://www.pure.ed.ac.uk/ws/files/15465732/2009_What_is_Translation.pdf
